@@ -1,4 +1,6 @@
 # **Lazy File Management System (LFMS)** 🚀  
+![Waketime](https://img.shields.io/badge/Waketime-47%20hrs%2032%20mins-blueviolet?style=flat&labelColor=black&logo=clock&logoColor=white)
+
 
 ## **Author**  
 👤 **Shreyas Mehta**  
